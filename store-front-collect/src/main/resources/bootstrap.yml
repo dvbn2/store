@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: collect-service
+  cloud:
+    nacos:
+      server-addr: 110.41.146.157:8848 #注册中心
+server:
+  port: 3008

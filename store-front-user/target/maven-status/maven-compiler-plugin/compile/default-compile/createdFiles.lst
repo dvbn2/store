@@ -1,0 +1,9 @@
+com\dvbn\service\impl\AddressServiceImpl.class
+com\dvbn\service\UserService.class
+com\dvbn\controller\AddressController.class
+com\dvbn\UserApplication.class
+com\dvbn\mapper\UserMapper.class
+com\dvbn\service\impl\UserServiceImpl.class
+com\dvbn\mapper\AddressMapper.class
+com\dvbn\service\AddressService.class
+com\dvbn\controller\UserController.class

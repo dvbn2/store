@@ -1,0 +1,6 @@
+com\dvbn\service\impl\CarouselServiceImpl.class
+com\dvbn\CarouselApplication.class
+com\dvbn\config\CarouselConfiguration.class
+com\dvbn\service\CarouselService.class
+com\dvbn\controller\CarouselController.class
+com\dvbn\mapper\CarouselMapper.class

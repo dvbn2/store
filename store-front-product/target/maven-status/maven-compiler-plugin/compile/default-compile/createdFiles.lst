@@ -1,0 +1,12 @@
+com\dvbn\listener\ProductRabbitMqListener.class
+com\dvbn\service\ProductService.class
+com\dvbn\config\MybatisPlusConfig.class
+com\dvbn\mapper\ProductMapper.class
+com\dvbn\ProductApplication.class
+com\dvbn\controller\ProductCartController.class
+com\dvbn\mapper\PictureMapper.class
+com\dvbn\controller\ProductSearchController.class
+com\dvbn\service\impl\ProductServiceImpl.class
+com\dvbn\controller\ProductCollectController.class
+com\dvbn\config\ProductConfiguration.class
+com\dvbn\controller\ProductController.class

@@ -1,0 +1,12 @@
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\listener\ProductRabbitMqListener.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\controller\ProductController.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\controller\ProductCartController.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\ProductApplication.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\config\ProductConfiguration.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\service\impl\ProductServiceImpl.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\controller\ProductCollectController.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\controller\ProductSearchController.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\mapper\ProductMapper.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\service\ProductService.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\config\MybatisPlusConfig.java
+D:\idea-workspace\store\store-front-product\src\main\java\com\dvbn\mapper\PictureMapper.java

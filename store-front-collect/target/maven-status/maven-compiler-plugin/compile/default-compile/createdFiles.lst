@@ -1,0 +1,5 @@
+com\dvbn\service\CollectService.class
+com\dvbn\service\impl\CollectServiceImpl.class
+com\dvbn\CollectApplication.class
+com\dvbn\controller\CollectController.class
+com\dvbn\mapper\CollectMapper.class
